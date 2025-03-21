@@ -1,6 +1,3 @@
-# valorunt
-simple color detecting valorun aim assist
-
 # Valorant Aim Assist (Educational Purposes Only)
 
 This is an educational project demonstrating computer vision techniques for detecting and tracking targets in a game environment. This program is designed for **offline use only** and should not be used in online competitive environments as it may violate terms of service.
