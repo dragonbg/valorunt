@@ -2,6 +2,8 @@
 
 This is an educational project demonstrating computer vision techniques for detecting and tracking targets in a game environment. This program is designed for **offline use only** and should not be used in online competitive environments as it may violate terms of service.
 
+If you wanna keep the project going, any ammount is welcome(Solana): FzrzWKpHwMFLi8yMYUPG5VxPyQ4UcQbUgG5wiUC3AznH 
+
 ## Features
 
 - Real-time screen capture and analysis
