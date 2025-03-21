@@ -3,4 +3,5 @@ numpy==1.24.3
 pywin32==306
 mss==9.0.1
 keyboard==0.13.5
-mouse==0.7.1 
+mouse==0.7.1
+pyserial==3.5 
